@@ -1,0 +1,23 @@
+{
+  "name": "G GRATIDÃO V86 BUSCA",
+  "short_name": "V86",
+  "description": "V86 Busca Automática de Filmes",
+  "start_url": "/v86-busca-autmatica/",
+  "scope": "/v86-busca-autmatica/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#FFD700",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2503/2503508.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2503/2503508.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
